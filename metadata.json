@@ -1,0 +1,6 @@
+{
+  "name": "Sentinel Response",
+  "description": "Localized heatwave early warning system with Dual-Portal (Citizen/Outdoor Worker & Municipal Admin Command), personalized WBGT thermal health tracking, hydration calculator, interactive cooling facilities GIS map, and automated FCM push broadcast dispatch.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
